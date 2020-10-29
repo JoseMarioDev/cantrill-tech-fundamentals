@@ -37,5 +37,5 @@
 - are intelligent, store and forward frames based on MAC address
 - won't forward collision
 
-![frames](img/datalink2.png)
-![switches](img/datalink3.png)
+  - ![frames](img/datalink2.png)
+  - ![switches](img/datalink3.png)
